@@ -1,6 +1,9 @@
 ---
-layout: home
-title: Welcome
+layout: page
 ---
 
-Thoughts about transition at the high school level
+# Welcome to Transition Reflections
+
+A space for reflecting on transition services and supporting students with disabilities as they navigate post-secondary planning.
+
+## Recent Posts
