@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Welcome
 ---
 
-Welcome to my reflective blog about transition services.
+Thoughts about transition at the high school level
