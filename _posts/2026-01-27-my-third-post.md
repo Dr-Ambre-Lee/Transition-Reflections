@@ -1,6 +1,7 @@
- ---
+2026-01-27-my-third-post.md
+---
 layout: post
-title: "Knowledge of Self"
+title: "Transition Fair TopsyTurmoil"
 date: 2026-01-27
 ---
 
