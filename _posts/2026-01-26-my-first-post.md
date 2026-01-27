@@ -4,8 +4,11 @@ title: "Welcome to My Transition Blog"
 date: 2026-01-26
 ---
 
-After multiple internal arguments about starting a blog about transition and work, I've decided to commit. Full confession, starting a blog is not a problem; it's posting continuously that is the issue.Possibly I never maintained a practice of posting because it often feels like you are writing into a void where the entire world disappears and it feels useless to continue if there are not readers. 
+After multiple internal arguments about starting a blog about transition and work, I've decided to commit. Full confession, starting a blog is not a problem; it's posting continuously that is the issue.
+
 <!--more-->
+
+Possibly I never maintained a practice of posting because it often feels like you are writing into a void where the entire world disappears and it feels useless to continue if there are not readers. 
 
 Readers don't matter is my new motto. In fact, this is freeing since I can now write for myself and truly be reflective of what I see in the field of transition.
 
