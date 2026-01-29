@@ -12,7 +12,7 @@ date: 2026-01-28
 
 Reminders, planners, direct instructions, sometimes it doesn’t matter what supports are provided, some students will not use them. Since October 2025, I’ve been encouraging students to complete their FAFSA. 
 
-“This is how you pay for school-college or trade school” I’ll say and each one smiles and me and swears they will do it. I have individual meetings with students and they promise to get it done. We schedule a follow up meeting the next month and SURPRISE! You guessed it, the FAFSA is not completed. 
+“This is how you pay for school-college or trade school” I’ll say and each one smiles at me and swears they will do it. I have individual meetings with students and they promise to get it done. We schedule a follow up meeting the next month and SURPRISE! You guessed it, the FAFSA is not completed. 
 
 Some students will ask me, “What is the FAFSA again?”
 
