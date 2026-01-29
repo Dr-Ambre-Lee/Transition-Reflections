@@ -5,7 +5,9 @@ date: 2026-01-28
 ---
 
 “Why won’t she do it when I am willing to sit right next to her and help?”
+
 “Does he need to be reminded EVERY time to put a 4 part heading on his paper?”
+
 “If they’ve done the assignment, why won’t they just hit submit?”
 
 Reminders, planners, direct instructions, sometimes it doesn’t matter what supports are provided, some students will not use them. Since October 2025, I’ve been encouraging students to complete their FAFSA. 
